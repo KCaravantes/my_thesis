@@ -5,3 +5,5 @@ I am odd as well as thinking I am weird
 I am adding another line to see that the changes are able to be seen in Github to see that I can use 
 git and github as it should be used properly. 
 
+I have seen the changes and am trying to understand the right way to add. commit and see the changes on
+github. 

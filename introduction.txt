@@ -1,3 +1,7 @@
 We were wanderers from the beginning.
 Booyah I got in to make changes to this file and I wanna dance but I cannot because I am at work and people would think 
 I am odd as well as thinking I am weird 
+
+I am adding another line to see that the changes are able to be seen in Github to see that I can use 
+git and github as it should be used properly. 
+

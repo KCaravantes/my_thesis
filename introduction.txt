@@ -10,3 +10,4 @@ github.
 
 I realized that I miss spelled the description, but thats ok because its practice so I get to change it.
 
+Checking to see what I can do to make this faster, or faster shortcuts with no errors .
